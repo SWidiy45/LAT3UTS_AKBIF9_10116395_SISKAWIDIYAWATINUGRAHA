@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MySelfApps</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">YOU ARE  STRONGER  THAN YOU THINK</string>
+
+    <string name="slide_2_title">YOU  CAN   DO  THIS</string>
+
+    <string name="slide_3_desc">Dont just n\ be good n\ to other n\ be good n\ to you n\ too </string>
+
+    <string name="slide_4_title">GUIDE</string>
+    <string name="slide_4_desc">Cari Guide Untuk Menemani Perjalananmu Agar  semakin asyik </string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Siska Widiyawati Nugraha</string>
+    <string name="nav_header_subtitle">my self apps</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
